@@ -1,3 +1,4 @@
+// Salmon color
 const tintColorLight = '#FF6347';
 const tintColorDark = '#fff';
 
